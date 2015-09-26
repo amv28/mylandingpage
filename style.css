@@ -1,0 +1,46 @@
+h1 {
+	padding-left: 20px;
+}
+body {
+	text-align: center;
+	color: white;
+	font-family: helvetica;
+	text-align: center;
+	background: url("http://www.iaspaper.net/wp-content/uploads/2015/05/6805012-outer-space-wallpaper.jpg");
+}
+img {
+	border-radius: 10px;
+	border: 5px black;
+}
+ul {
+	list-style-position: inside;
+    border: 5px solid white;
+}
+input[type="submit"] {
+	background:purple;
+	color: white;
+	border: 0px;
+	border-radius: 5px;
+}
+#excited {
+	font-weight: bold;
+	color:grey;
+}
+.stoked {
+	text-decoration: underline;
+}
+header {
+	text-align: center;
+}
+.navitems {
+	text-align: center;
+	padding-right: 35px;
+}
+#navigation {
+	border: none;
+}
+#left-div {
+	height:100px;
+	width: 50px
+
+}

@@ -1,0 +1,12 @@
+body {
+	text-align: center;
+background: url("https://s3.amazonaws.com/ooomf-com-files/8H0UdTsvRFqe03hZkNJr_New%20York%20-%20On%20the%20rock%20-%20Empire%20State%20Building.jpg");
+}
+#left-div {
+	height:200px;
+	width: 200px
+}
+#right-div {
+	height:200px;
+	width: 600px;
+}
